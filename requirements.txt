@@ -1,0 +1,15 @@
+#ed078b pink
+#423f8d text blue
+#1f97d4 text light blue
+#fbce0f text yellow
+#12d9df text light green
+#fff2f9 background pink 
+#4255a4 footer color
+#7fa5e0 text sky blue
+#fff color white
+li a
+    font-family: "Concert One",cursive;
+h1,h2,h3,h4
+    font-family: "Fredoka One",cursive;
+p
+    font-family: "DM Sans",sans-serif;

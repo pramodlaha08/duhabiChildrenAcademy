@@ -1,0 +1,126 @@
+:root {
+    ---whitecolor: #fff;
+    ---mainpink: #ed078b;
+    ---mainbluetext:#423f8d;
+    ---lightbluetext:#1f97d4;
+    ---yellowtext:#fbce0f;
+    ---lightgreentext:#12d9df;
+    ---bgpink:#fff2f9;
+    ---footercolor:#4255a4;
+    ---skybluetext:#7fa5e0;
+    ---mainheadfont: 'Fredoka', sans-serif;
+    ---maintopicfont:'Concert One', sans-serif;
+    ---parafont: font-family: 'DM Sans', sans-serif;
+    ---grey:#4c4c4c;
+
+}
+
+
+/* For h1,h2 and other heading name */
+.headfont{
+    font-family: var(---mainheadfont);  
+}
+
+/* For sub heading or topic name */
+.topicfont{
+    font-family: var(---topicfont);
+}
+
+/* For paragraph */
+.parafont{
+    font-family: var(---parafont);
+}
+
+.dflex {
+    display: flex;
+}
+
+.allcenter{
+    justify-content: center;
+    align-items: center;
+}
+
+.space-around{
+    justify-content: space-around;
+    align-items: center;
+}
+
+.spacebetween{
+    justify-content: space-between;
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+
+.flex-column{
+    flex-direction: column;
+}
+
+button{
+    cursor: pointer;
+    border: none;
+    border-radius: 50px;
+    height: 50px;
+    width: 165px;
+    font-family: var(---maintopicfont);
+    font-size: 18px;
+}
+
+.color-pink{
+    color: var(---mainpink);
+}
+
+.color-yellow{
+    color: var(---yellowtext);
+}
+
+.color-darkblue{
+    color: var(---footercolor);
+}
+
+.color-lightblue{
+    color: var(---lightbluetext);
+
+}
+
+.color-skyblue{
+    color: var(---skybluetext);
+}
+
+.color-textblue{
+    color: var(---lightbluetext);
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.b100{
+    font-weight: 100;
+}
+.b200{
+    font-weight: 200;
+}
+.b300{
+    font-weight: 300;
+}
+
+.b400{
+    font-weight: 400;
+}
+.b500{
+    font-weight: 500;
+}
+.b600{
+    font-weight: 600;
+}
+.b700{
+    font-weight: 700;
+}
+
+.linone{
+    list-style: none;
+    color: var(---darkcolor);
+}

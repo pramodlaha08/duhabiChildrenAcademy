@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
+  <g id="about-icon3" transform="translate(-387 -1205)">
+    <circle id="about-icon3-2" data-name="about-icon3" cx="35" cy="35" r="35" transform="translate(387 1205)" fill="#12d9df"/>
+    <g id="video-recording" transform="translate(397 1222)">
+      <g id="Group_7" data-name="Group 7" transform="translate(8)">
+        <g id="Group_6" data-name="Group 6">
+          <path id="Path_4" data-name="Path 4" d="M104,176v12.738h15.923v-1.89l5.308,1.062V176.828l-5.308,1.062V176Zm19.108,3.418v5.9l-5.308-1.062v2.357H106.123v-8.492H117.8v2.357Z" transform="translate(-97.631 -164.323)" fill="#fff"/>
+          <rect id="Rectangle_7" data-name="Rectangle 7" width="2" height="3" transform="translate(32 14)" fill="#fff"/>
+          <rect id="Rectangle_8" data-name="Rectangle 8" width="2" height="2" transform="translate(32 19)" fill="#fff"/>
+          <path id="Path_5" data-name="Path 5" d="M38.785,0h-27.6A3.185,3.185,0,0,0,8,3.185V31.846a3.185,3.185,0,0,0,3.185,3.185h27.6a3.185,3.185,0,0,0,3.185-3.185V23.354H39.846v8.492a1.062,1.062,0,0,1-1.062,1.062h-27.6a1.061,1.061,0,0,1-1.062-1.062V3.185a1.062,1.062,0,0,1,1.062-1.062h27.6a1.062,1.062,0,0,1,1.062,1.062v9.554h2.123V3.185A3.185,3.185,0,0,0,38.785,0Z" transform="translate(-8)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
