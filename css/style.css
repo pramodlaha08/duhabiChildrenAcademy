@@ -1676,6 +1676,10 @@ form button:hover {
     .rulepage-third-section .rulepage-third-section-text{
         width: 90% !important;
     }
+
+    .rating{
+        gap:0.4rem;
+    }
 }
 
 
